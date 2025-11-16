@@ -1,10 +1,10 @@
-#🐍 Snake Game using JavaScript
+# 🐍 Snake Game using JavaScript
 
 A simple and classic Snake Game built using HTML, CSS, and JavaScript. This project demonstrates DOM manipulation, keyboard event handling and game loops — perfect for beginners learning web development or game logic.
 
 ---
 
-##🚀 Features
+## 🚀 Features
 - Smooth snake movement
 - Food generation at random positions
 - Score tracking
@@ -14,21 +14,21 @@ A simple and classic Snake Game built using HTML, CSS, and JavaScript. This proj
 
 ---
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 - HTML5 – Game structure
 - CSS3 – Styling the board and snake
 - JavaScript (ES6) – Game logic, controls, collision detection, animations
 
 ---
 
-##📂 Project Structure
+## 📂 Project Structure
 ├── index.html
 ├── style.css
 └── script.js
 
 ---
 
-###▶️ How to Play
+### ▶️ How to Play
 
 - Open index.html in any modern browser.
 - Use the keyboard arrow keys to move the snake:
@@ -46,7 +46,7 @@ A simple and classic Snake Game built using HTML, CSS, and JavaScript. This proj
 
 ---
 
-###🧠 How It Works (Game Logic Summary)
+### 🧠 How It Works (Game Logic Summary)
 
 - A game loop runs at a fixed speed using setInterval() or requestAnimationFrame().
 - The snake is represented as an array of coordinates.
@@ -58,8 +58,8 @@ A simple and classic Snake Game built using HTML, CSS, and JavaScript. This proj
 
 ---
 
-###🧩 Future Improvements
-
+### 🧩 Future Improvements
+ 
 - Add sound effects
 - Add difficulty levels
 - Improve UI and animations
